@@ -1,7 +1,5 @@
 # Kansora-Medical-High-Performer-Attrition-Analysis
 
-# Kansora Medical: High Performer Attrition Analysis
-
 ### Using people analytics to identify the factors most strongly associated with attrition among high-performing employees and translate the findings into practical retention priorities.
 
 ## Project overview
